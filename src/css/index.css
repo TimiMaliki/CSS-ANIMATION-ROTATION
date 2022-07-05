@@ -74,14 +74,3 @@ body {
         transform: perspective(1000px) rotateX(720deg);
     }
 }
-
-@media (min-width:320px){
-    body{
-        background: #000;
-    }
-    .box{
-        width: 100px;
-        height: 200px;
-        }
-        .box:before{}
-}
